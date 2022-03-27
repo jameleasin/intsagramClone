@@ -1,3 +1,7 @@
+An Instagram clone, where you are able to sigin in using google accounts, add posts, like posts and add comments using Next.js, Tailwind CSS, Firebase v9, NextAuth, Recoil
+
+(Needs work)
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
